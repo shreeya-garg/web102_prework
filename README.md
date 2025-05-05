@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-[![Watch the video](https://img.youtube.com/vi/alaL0GkqjbM/0.jpg)](https://youtu.be/alaL0GkqjbM)
+<img src='https://github.com/shreeya-garg/web102_prework/blob/main/videowalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
